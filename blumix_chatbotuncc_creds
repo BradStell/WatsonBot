@@ -1,0 +1,12 @@
+{
+  "url": "https://gateway.watsonplatform.net/natural-language-understanding/api",
+  "username": "e102f18e-7997-468e-9b9a-a9ca61fdcc71",
+  "password": "1U0SqFl2aGRy"
+}
+
+{
+  "url": "https://gateway.watsonplatform.net/conversation/api",
+  "username": "ff71802a-62b2-47ae-9692-df5e71c142b9",
+  "password": "fRohP03kApiD"
+}
+
